@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akeyo2024
+- 👋 Hi, I’m Raphael Akeyo
 - 👀 Ask me anything data analytics, visualization and interpretation!
 - 🌱 I’m currently working on various data analytics and research analysis projects
 - 💞️ I’m looking to collaborate on projects in data analytics and research 
