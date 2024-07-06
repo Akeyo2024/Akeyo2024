@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on various data analytics and research analysis projects
 - 💞️ I’m looking to collaborate on projects in data analytics and research 
 - 📫 How to reach me raphaelakeyo@gmail.com
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Table-Tennis Pro..!
 
 <!---
